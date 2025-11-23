@@ -1,15 +1,20 @@
 # Репозиторий группы A/B в МШП.
 
-#### [Таблица результатов (контесты)] TODO
-<!-- (https://contest.informatics.ru/ejstand/2024-25/mps/group-b2) -->
+#### [Таблица результатов (контесты)](https://contest.informatics.ru/ejstand/2025-26/mps/group-b-parkina-contests)
 
-#### [Таблица результатов (дистуры)] TODO
-<!-- (https://contest.informatics.ru/ejstand/2024-25/mps/group-b2-tours) -->
+#### [Таблица результатов (дистуры)](https://contest.informatics.ru/ejstand/2025-26/mps/group-b-parkina-tours)
+
+#### [Гугл Таблица тестов](https://docs.google.com/spreadsheets/d/1qrJQF5a-z3yKbM0qlcZJ8Lpyg6jwxZj7mXgBhWcdDGw/edit?usp=sharing)
+
 
 ## Контесты и дистуры
 
 <details>
       <summary>Контесты</summary>
+
+#### [Ахо-Корасик](https://contest.informatics.ru/cgi-bin/new-client?contest_id=26106)
+
+#### [Строчки](https://contest.informatics.ru/cgi-bin/new-client?contest_id=26105)
 
 #### [Корневые эвристики](https://contest.informatics.ru/cgi-bin/new-client?contest_id=26100)
 
@@ -20,7 +25,11 @@
 <details>
       <summary>Дистуры</summary>
 
+#### [Тур 1](https://contest.informatics.ru/cgi-bin/new-client?contest_id=25932)
 
+#### [Тур 2](https://contest.informatics.ru/cgi-bin/new-client?contest_id=25945)
+
+#### [Тур 3](https://contest.informatics.ru/cgi-bin/new-client?contest_id=25950)
 
 </details>
 
